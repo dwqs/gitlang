@@ -6,7 +6,6 @@ Repository to list all programming languages github supports.
 ## Installation
 Install the pkg with npm:
 ```
-// v5之前的版本
 npm i --save gitlang
 ```
 
