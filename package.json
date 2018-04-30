@@ -3,6 +3,7 @@
     "version": "1.0.0",
     "main": "./langs.js",
     "author": "pomysky@gmail.com",
+    "license": "MIT",
     "dependencies": {
         "chalk": "^2.4.0",
         "ora": "^2.0.0",
