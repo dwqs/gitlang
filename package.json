@@ -1,0 +1,21 @@
+{
+    "name": "gitlang",
+    "version": "1.0.0",
+    "main": "./langs.js",
+    "author": "pomysky@gmail.com",
+    "dependencies": {
+        "chalk": "^2.4.0",
+        "ora": "^2.0.0",
+        "puppeteer": "^1.3.0"
+    },
+    "files": [
+        "langs.js",
+        "package.json",
+        "README.md",
+        "LICENSE"
+    ],
+    "description": "Repository to list all programming languages github supports(trending & topics)",
+    "scripts": {
+        "start": "node index.js"
+    }
+}
